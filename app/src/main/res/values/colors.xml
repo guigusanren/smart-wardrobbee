@@ -2,4 +2,61 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Material Design 3 Colors -->
+    <color name="seed">#6750A4</color>
+    <color name="md_theme_light_primary">#6750A4</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#EADDFF</color>
+    <color name="md_theme_light_onPrimaryContainer">#21005D</color>
+    <color name="md_theme_light_secondary">#625B71</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#E8DEF8</color>
+    <color name="md_theme_light_onSecondaryContainer">#1D192B</color>
+    <color name="md_theme_light_tertiary">#7D5260</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#FFD8E4</color>
+    <color name="md_theme_light_onTertiaryContainer">#31111D</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_background">#FFFBFE</color>
+    <color name="md_theme_light_onBackground">#1C1B1F</color>
+    <color name="md_theme_light_surface">#FFFBFE</color>
+    <color name="md_theme_light_onSurface">#1C1B1F</color>
+    <color name="md_theme_light_surfaceVariant">#E7E0EC</color>
+    <color name="md_theme_light_onSurfaceVariant">#49454F</color>
+    <color name="md_theme_light_outline">#79747E</color>
+    <color name="md_theme_light_outlineVariant">#CAC4D0</color>
+    <color name="md_theme_light_scrim">#000000</color>
+    <color name="md_theme_light_inverseSurface">#313033</color>
+    <color name="md_theme_light_inverseOnSurface">#F4EFF4</color>
+    <color name="md_theme_light_inversePrimary">#D0BCFF</color>
+
+    <!-- Custom Colors -->
+    <color name="favorite_color">#E91E63</color>
+    <color name="image_background">#F5F5F5</color>
+    <color name="image_border">#E0E0E0</color>
+
+    <!-- Status Colors -->
+    <color name="status_available">#4CAF50</color>
+    <color name="status_dirty">#FF9800</color>
+    <color name="status_washing">#2196F3</color>
+    <color name="status_drying">#9C27B0</color>
+    <color name="status_need_repair">#F44336</color>
+
+    <!-- Clothing Colors -->
+    <color name="clothing_white">#FFFFFF</color>
+    <color name="clothing_black">#000000</color>
+    <color name="clothing_red">#F44336</color>
+    <color name="clothing_blue">#2196F3</color>
+    <color name="clothing_green">#4CAF50</color>
+    <color name="clothing_yellow">#FFEB3B</color>
+    <color name="clothing_orange">#FF9800</color>
+    <color name="clothing_purple">#9C27B0</color>
+    <color name="clothing_pink">#E91E63</color>
+    <color name="clothing_brown">#795548</color>
+    <color name="clothing_gray">#9E9E9E</color>
+    <color name="clothing_navy">#1A237E</color>
 </resources>

@@ -1,3 +1,69 @@
 <resources>
     <string name="app_name">智能衣柜</string>
+
+    <!-- 菜单项 -->
+    <string name="menu_statistics">统计</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_about">关于</string>
+
+    <!-- 搜索 -->
+    <string name="search_hint">搜索衣物...</string>
+
+    <!-- 空状态 -->
+    <string name="empty_wardrobe_title">衣柜空空如也</string>
+    <string name="empty_wardrobe_message">点击右下角按钮添加第一件衣物吧！</string>
+
+    <!-- 筛选 -->
+    <string name="filter_all">全部</string>
+    <string name="filter_season">季节筛选</string>
+    <string name="filter_type">类型筛选</string>
+
+    <!-- 季节 -->
+    <string name="season_spring">春季</string>
+    <string name="season_summer">夏季</string>
+    <string name="season_autumn">秋季</string>
+    <string name="season_winter">冬季</string>
+
+    <!-- 类型 -->
+    <string name="type_top">上装</string>
+    <string name="type_bottom">下装</string>
+    <string name="type_shoes">鞋类</string>
+    <string name="type_accessories">配饰</string>
+
+    <!-- 操作 -->
+    <string name="action_add_clothing">添加衣物</string>
+    <string name="action_edit">编辑</string>
+    <string name="action_delete">删除</string>
+    <string name="action_favorite">收藏</string>
+    <string name="action_wear">穿过了</string>
+    <string name="action_mark_worn">标记为已穿</string>
+    <string name="action_change_status">更改状态</string>
+    <string name="action_update">更新</string>
+
+    <!-- 确认对话框 -->
+    <string name="confirm_delete_title">确认删除</string>
+    <string name="confirm_delete_message">确定要删除「%s」吗？此操作无法撤销。</string>
+    <string name="dialog_delete">删除</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_select_status">选择状态</string>
+
+    <!-- 提示消息 -->
+    <string name="toast_marked_worn">已标记为穿过</string>
+    <string name="toast_added_favorite">已添加到收藏</string>
+    <string name="toast_removed_favorite">已取消收藏</string>
+    <string name="toast_status_updated">状态已更新为：%s</string>
+    <string name="toast_deleted">已删除</string>
+    <string name="toast_delete_failed">删除失败</string>
+    <string name="toast_updated_success">衣物更新成功</string>
+    <string name="toast_update_failed">更新失败</string>
+
+    <!-- 状态 -->
+    <string name="status_available">可穿</string>
+    <string name="status_dirty">需洗</string>
+    <string name="status_washing">洗涤中</string>
+    <string name="status_drying">晾晒中</string>
+
+    <!-- 统计 -->
+    <string name="wear_count_format">穿过 %d 次</string>
+    <string name="price_format">¥%.0f</string>
 </resources>
